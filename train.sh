@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 python cyclegan.py --dataset_name vangogh2photo --n_epochs 5 --decay_epoch 4
